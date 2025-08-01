@@ -1,4 +1,4 @@
-# ☕ Coffee Website
+# ☕ Coffee Website(INDUS AROMA)
 
 Welcome to the Coffee Website project, a modern, stylish, and responsive front-end coffee shop template. Designed for coffee lovers, small cafes, or personal projects, this website showcases coffee menus, testimonials, contact info, and a beautiful gallery.
 
