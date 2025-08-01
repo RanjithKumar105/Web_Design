@@ -201,11 +201,29 @@ header .navbar {
   flex-wrap: wrap; /* allow wrapping on smaller screens */
 }
 
-
+/* 
 .hero-section .hero-image-wrapper {
   max-width: 500px;
   margin-right: 30px;
+} */
+
+
+.hero-section .hero-image-wrapper {
+  display: flex;
+  justify-content: center; /* centers horizontally */
+  align-items: center;     /* centers vertically */
 }
+
+.hero-section .hero-image {
+  max-width: 300px;  /* adjust size as you like */
+  width: 100%;
+  height: auto;
+  display: block;
+}
+
+
+
+
 
 /*About section styling */
 .about-section {
